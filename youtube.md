@@ -30,7 +30,8 @@ ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy {
     height: 0 !important;
     overflow: hidden !important;
 }
-```
+
 .ytp-hide-controls .ytp-chrome-bottom {
     display: block !important;
 }
+```
